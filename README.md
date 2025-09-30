@@ -1,2 +1,2 @@
 # Brownian-Motion
-Implimeting BM, GBM, SBM
+Implimenting SBM, BM, GBM
